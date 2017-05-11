@@ -1,0 +1,10 @@
+ttrojan
+Name: Data Abstraction & Problem Solving with C++
+Author: Carrano and Henry ISBN: 978-013292372-9
+79.99 20 left.  Score: 5
+Name: Great Men and Women of Troy
+Author: Tommy Trojan ISBN: 978-000000000-1
+19.5 5 left.  Score: 5
+Name: Men's Fitted Shirt
+Size: Medium Brand: J. Crew
+39.99 25 left.  Score: 3
